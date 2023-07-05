@@ -7,7 +7,7 @@ import {
   Platform,
   TouchableOpacity,
 } from "react-native";
-
+const q = 0;
 export default function RegistrationScreen() {
   return (
     <View style={styles.container}>
